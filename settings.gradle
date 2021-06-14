@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "wonhoi_Unsplash_Copyright_Free_photos"
